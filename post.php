@@ -42,8 +42,6 @@
       array_push($dataPoints, $fun);
   }
 
-   //array("label"=>"Chrome", "y"=>64.02),
-    
    
   
  ?>
